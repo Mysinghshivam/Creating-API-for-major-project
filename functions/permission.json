@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fake-news-detection-syst-c6ed0",
+  "private_key_id": "06e7ebee0429f6f2efe909e6b203d5bee6c496c5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCjto+LI/eLkhrF\nAcBitofo6mN7ZXvF0gtTvRa7xct0dhiykzV6bYjS7/As8jN9XiQIEN0xqMHnRmeh\n1e3fFOIY8jphlCZM38JbHqF/6m1OFPGbv/FySlE6JhDHH8eIShZmAqLhqnnjRIQa\nMbEuKa8cc5NrcYlCV667OoPUCruWmtU2/7aQMsTboTN8LVQpX0T1p+4JQGZ337tu\n6Rb8X4ZLDbfHgwICjKuuoyT6rFgju494c8ChJ+NDbKRiqx51Ljt5V0SFCZXbIgg0\niil05rXSlF1O3cOzzVUMmrR7aOhge/kklRDnCJnWknPtmlLmA11un09Ds3Tjv6Yu\ncvy0cJf/AgMBAAECggEAFQaFFfDHFz5AQOKniNCk0NWKyZYa2NOlOm/I+Sb/KRRi\nZKDXrUMJtP7gFi2po5ARHutnimaq4d80FQqgE6v0w7vBorbqWlTMex5fzclXmL/D\ngztvW2ckWnb5ZabKXfxsjFUKAo3TPKHCjjNT7Df/R4Snv2n5Sl4aJe1EcVmgMPMP\nTASO3pWtpNOWvfbCH/E7mtiSuewU9SH9dlf/wZnfpQLoYXuz46+XnEnh2mQQus1U\nbgIooYAWRbsxtaHe+wh0Y5c9mYEyjph2+temyEkYVAwbIE3837dmGcDe19ezHH+y\nrRNW6+eSHfZDKdRM2TBIFxgEDP9obDBAdqXclMGrjQKBgQDcBpVYwEGGXR0PRB8G\ntpz7DWq9DGYGo+BN++3qduloaTOKoBd5muODQ8lj3jHESTHJmokSUVX3BLCup5wT\nSeGwAZd5mua0SliulqlhLoHThP3knZuuQ/mMPsEk042O2IOE2RcUeTJchlIOaBii\nw27iX9iZmpvLeC9uddnJfGF5AwKBgQC+evPTlK/cD2mRDaBo2fO43/IJxcBjXrpz\n+SONWvekh2fnj+oEuwjZtNSw4vS4s2ByXy8SBfhifrGDmQQ/c2Z55YI/JiwGKp2y\nY7MpJkEEEd6UqXVOxgK9rsV78fjvXaNob0zvvlijnTiSKxVMRFjbvIE8n2a/uMRi\no9m1epHOVQKBgBFF7wmVpk8/Fh3xsiHbyj0nU37d71CMIvrcUVQ7250XzTUP1mf0\nkfHnK3NMqUmImYEDQcmPWxlWY+yCOg2FmlMv/M1OLNhwkb+7EjcP6J9LbIc7HFK1\nAW1SK+WROibBtqmCRX6U+TAsV1rML0rv3s+kyKNecOarW8XnOJ7JxfkzAoGAOpIk\nF5NI4Cn9FBVUlekvAFIcYtTj66pdOvwI6pZmP7lDQfkGxJ2egxMPs7SV+5Vsur56\nAtjDH8ZFX2nV3IznnePswO5D60F/bDMsDCMvKskz4BKbd7V7ckgjgZFOMoxgiuRu\ni+nD58uYcZm92s3JZQf51WJOffWarZokf6FI5GECgYBEqf8IW2VYyP8aS2Fvcq2W\ntODwDXvZmdLq37eomV7vI/Mxp95oCUSaK09cq0X4wt7cUHSr+0SP/m1Pk0uPiu3c\n/IQILMlvh8ok++Bzbz5A9mE8gtTf20/S8j40dojhB2iZGwapR8CzpD+RGwDevz8e\ng+ehUsY+vGfwYkx3OkQZ/w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-39gfz@fake-news-detection-syst-c6ed0.iam.gserviceaccount.com",
+  "client_id": "104743722533652106327",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-39gfz%40fake-news-detection-syst-c6ed0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
